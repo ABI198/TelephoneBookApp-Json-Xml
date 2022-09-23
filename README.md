@@ -16,3 +16,8 @@ and the experience of why dto is so important was gained.<br />
  * Result Pattern
 
 <b>Some Visuals About Application</b><br>
+![1](https://user-images.githubusercontent.com/99497305/192009966-2a0437e3-6f42-42d0-86cf-fb76fc3d4198.png)
+![2](https://user-images.githubusercontent.com/99497305/192010005-7d704281-0066-4f6c-9dba-aead1980c5ae.png)
+
+
+
